@@ -1,11 +1,14 @@
-# promoE_modulo2_sprint1_pairprogramming_MonicayAndrea
+# Estadística-Visualización
+
+## Integrantes
+Andrea Cabrera y Mónica Serrano
 
 ## Descripción
 Este proyecto contiene el código en Python necesario para hacer los ejercicios propuestos.
 
 ## Motivación para la realización de este proyecto
 
-Practicar los conceptos estudiados durante toda la primera parte del módulo 2, relacionado con estadística, numpy, pandas y visualización utilizando Matplotlib y Seaborn. 
+Practicar los conceptos estudiados durante toda la primera parte del módulo 2 del bootcamp Data Analytics de Adalab, relacionados con estadística, numpy, pandas y visualización, utilizando Matplotlib y Seaborn. 
 
 ## Estructura de las carpetas 
 
