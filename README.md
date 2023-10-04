@@ -1,4 +1,4 @@
-# Estadística-Visualización
+# Práctica-Estadística-Visualización
 
 ## Integrantes
 Andrea Cabrera y Mónica Serrano
